@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/zyphigros/Web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+## 欢迎来到ZYPhigros
+这是一个非官方的Phigros网站，有一些实用的资料与功能。
+如你所见，这个网站现仍然在建设中。
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
