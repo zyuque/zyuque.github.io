@@ -1,7 +1,7 @@
 ## 欢迎来到ZYPhigros
-这是一个非官方的Phigros网站，有一些实用的资料与功能。
-如你所见，这个网站现仍然在建设中。
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  这是一个非官方的Phigros网站，有一些实用的资料与功能。  
+  如你所见，这个网站现仍然在建设中。  
+  为了让这个网站看上去更 高 大 上 ，我使用了 [Jekyll](https://jekyllrb.com/) 来创建本网站。
 
 ### Markdown
 
