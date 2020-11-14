@@ -1,5 +1,5 @@
 # 欢迎来到ZYPhigros
-  这是一个非官方的Phigros网站，有一些实用的资料与功能。  
+  ##这是一个非官方的Phigros网站，有一些实用的资料与功能。  
   如你所见，这个网站现仍然在建设中。  
   为了让这个网站看上去更 高 大 上 ，我使用了 [Jekyll](https://jekyllrb.com/) 来创建本网站。  
 屁股肉logo镇网（）[logo](Phigros.jpg)  
@@ -12,7 +12,7 @@
 由于技术力缺失，麻烦使用ctrl+f来在很多项目的搜索你想要的一项。
 
 ```markdown
-[常见问题](/faq.md)
+faq [常见问题](/faq.md)  
 
 # Header 1
 ## Header 2
