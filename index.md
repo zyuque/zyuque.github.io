@@ -17,28 +17,3 @@
 [定数表](/ds.md)  
 [鞋 垫 视 频](/xd.md)  
   其实Phigros的东西基本在萌娘百科上都有啊，那我是在图个啥啊（悲）**  
-
-<html>
-	<head>
-		<meta charset="UTF-8">
-		<title></title>
-	    <style type="text/css">
-	    	.blur {	
-		    filter: url(blur.svg#blur); /* FireFox, Chrome, Opera */
-		    background-position: center;
-		    background-size: cover;		    
-		    height: 1300px;
-		    -webkit-filter: blur(10px); /* Chrome, Opera */
-		       -moz-filter: blur(10px);
-		        -ms-filter: blur(10px);    
-		            filter: blur(10px);
-		    
-		    filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=10, MakeShadow=false); /* IE6~IE9 */
-		}
-	    </style>
-	</head>
-	<body>
-		<img src="bg.jpg" class="blur"/>
-	</body>
-</html>
-
