@@ -18,7 +18,6 @@
 [鞋 垫 视 频](/xd.md)  
   其实Phigros的东西基本在萌娘百科上都有啊，那我是在图个啥啊（悲）**  
 
-<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
