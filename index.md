@@ -6,23 +6,6 @@
 另外，本网站的建设者是毫无技术力的 [紫云-WASTED](https://space.bilibili.com/388705353) 。希望这个网站可以帮到你。  
 如果你也想参与帮助网站的建设，可以联系我，毕竟我真的是一个完全没有技术力的鸽子学生党（悲）。   
 <link rel="icon" href="Phigros.ico" type="image/x-icon"/>  
-<html>
-<head>
-<style type="text/css">  
-img{     
-  position:absolute;   
-  left:300px;
-  top:150px;
- <!  width="1000px";>
- <! height="400px";>
-  } 
-</style>
-</head>
-<body>
-<img src="Phigros.jpg" width="800" height="800" /> 
-</body>
-
-
 ## 请点击下方蓝字传送--
 
 ### 由于技术力缺失，麻烦使用**ctrl+f**来在很多项目的搜索你想要的一项。  
