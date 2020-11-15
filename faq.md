@@ -1,7 +1,8 @@
 # 常见问题
 ## **请使用ctrl+f来快速搜索。** 
   如你所见，这个网站现仍然在建设中。  
-<link rel="icon" href="Phigros.ico" type="image/x-icon"/>  
+  
+  <link rel="icon" href="Phigros.ico" type="image/x-icon"/>  
 
   
 ### 1.Spasmodic的IN难度如何解锁？  
