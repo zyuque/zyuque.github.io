@@ -5,7 +5,8 @@
   本网站的转载内容可能未经过原作者同意，如果你有疑惑，请联系我删除  
 另外，本网站的建设者是毫无技术力的 [紫云-WASTED](https://space.bilibili.com/388705353) 。希望这个网站可以帮到你。  
 如果你也想参与帮助网站的建设，可以联系我，毕竟我真的是一个完全没有技术力的鸽子学生党（悲）。   
-<link rel="icon" href="Phigros.ico" type="image/x-icon"/>
+<link rel="icon" href="Phigros.ico" type="image/x-icon"/>  
+<img width="1080" height="1080" src="Phigros.jpg>
 
 
 ## 请点击下方蓝字传送--
