@@ -3,4 +3,5 @@
   如你所见，这个网站现仍然在建设中。  
   ![定数表1.5.7](/ds1.5.7.JPG)    
 如果上面那张无法加载，请[点击这里](https://share.weiyun.com/KwYoznwp)  
-[回到首页](/index.md)
+[回到首页](/index.md)  
+<link rel="icon" href="Phigros.ico" type="image/x-icon"/> 
