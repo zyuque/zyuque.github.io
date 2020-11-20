@@ -10,8 +10,8 @@
 
 ### 由于技术力缺失，麻烦使用**ctrl+f**来在很多项目的搜索你想要的一项。  
 
-**[常见问题](/faq.md)  
-[音 游 术 语](/sy.md)  
-[定数表](/ds.md)  
-[鞋 垫 视 频](/xd.md)  
+**[常见问题](https://zyphigros.github.io/faq.md)  
+[音 游 术 语](https://zyphigros.github.io/sy.md)  
+[定数表](https://zyphigros.github.io/ds.md)  
+[鞋 垫 视 频](https://zyphigros.github.io/xd.md)  
   其实Phigros的东西基本在萌娘百科上都有啊，那我是在图个啥啊（悲）**  
