@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<html lang="zh-cn">
+    <head>
+        <title>留言板</title>
+        <link rel="stylesheet" href="/theme.css">
+        <link rel="stylesheet" href="/extensions/fonts/PingFang SC/PingFang SC Regular.css">
+    </head>
+    <header style="text-align: center;font-family: Times New Roman, PingFang SC, sans-serif">
+            <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+            <div id="header"></div>
+            <script>
+                $("#header").load("/head.html");
+            </script>
+    </header>
+    <body style="text-align: center">
+        <h1>Discuss</h1>
+        <p><i>Feel free to say something if you would like to.</i></p>
+        <p><i>Your messages will be displayed here once they get approved.</i></p>
+         <div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="ea1610f5-2fb9-494d-99b1-729b6625b030"
+  data-page-id="chat"
+  data-page-url="https://wastedziyun.github.io/msg.html"
+  data-page-title="留言板"
+              data-theme="dark"
+></div>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    </body>
+    <footer>
+        <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+        <div id="footer"></div>
+        <script>
+            $("#footer").load("/foot.html");
+        </script>
+    </footer>
+</html>
