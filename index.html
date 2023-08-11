@@ -4,6 +4,7 @@
     <head>
         <title>zyuque’s blog</title>
         <link rel="stylesheet" href="/theme.css">
+        <link rel="stylesheet" href="/extensions/extras/APlayer.min.css">
         <link rel="stylesheet" href="/extensions/fonts/PingFang SC/PingFang SC Regular.css">
     </head>
     <header style="text-align: center;font-family: Times New Roman, PingFang SC, sans-serif">
@@ -18,9 +19,26 @@
         <hr>
         <br>
         <p>前些天<sup><sup id="1r"><a href="#1">^1</a></sup></sup>我在青春诗会上分享了戈麦的《新生》。临时选用了</p>
-        <p>Domenico Scarlatti:Keyboard Sonata in B minor, K.87</p>
+        <center>
+            <div id="aplayer" style="width:26rem;white-space:nowrap;display:inline-block;position:relative"></div>
+            <div style="display:inline-block;position:relative;top:-3.5rem">
+                <sup><sup id="2r"><a href="#2">^2</a></sup></sup>
+            </div>
+            <script src="/extensions/extras/APlayer.min.js"></script>
+            <script>
+            const ap = new APlayer({
+                container: document.getElementById('aplayer'),
+                audio: [{
+                    name: 'Keyboard Sonata in B minor, K.87',
+                    theme: '#53565c',
+                    artist: 'Domenico Scarlatti',
+                    url: '/archives/uploads/IMSLP480288-PMLP334568-Scarlatti-K087oc.mp3',
+                    cover: '/archives/uploads/Cover(front).jpg'
+                }]
+            });
+            </script>
+        </center>
         <p>作为背景音乐。</p>
-        <p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=332 height=52 src="//music.163.com/outchain/player?type=2&id=29844126&auto=0&height=32" ></iframe></p>
     </body>
     <div style="text-align:left;padding-left:16%;padding-right:16%;font-size:15px">
         <p style="font-size:30px"><strong>新生</strong></p>
@@ -59,6 +77,9 @@
         <br style="font-size:15px">
         <p>
             <sup id="1" style="font-size:15px"><a href="#1r">^1</a></sup> 2023.5.29.
+        </p>
+        <p>
+            <sup id="2" style="font-size:15px"><a href="#2r">^2</a></sup> <a href="https://imslp.org/wiki/Special:ReverseLookup/480288"> Keyboard Sonata in B minor, K.87 (Scarlatti, Domenico)</a>.
         </p>
     </div>
     <footer style="text-align:center">
